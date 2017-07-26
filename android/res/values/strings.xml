@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+
+<!--Google GCM -->
+<string name="gcm_defaultSenderIdd">922963869854</string>
+
+</resources>

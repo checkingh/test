@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "922963869854",
+    "project_id": "api-project-922963869854"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922963869854:android:ad326d6b703016c9",
+        "android_client_info": {
+          "package_name": "com.lhcandroid.livehelperchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAor4DDKLcv1jMfRtJ_I_U_E4eZdav59Uw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
